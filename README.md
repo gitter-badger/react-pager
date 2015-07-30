@@ -1,4 +1,6 @@
 # Stateless Pager component
+
+[![Join the chat at https://gitter.im/dtrussia/react-pager](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dtrussia/react-pager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NPM version][npm-image]][npm-url]
 [![Code Climate][cc-image]][cc-url]
 [![Build Status][travis-image]][travis-url]
